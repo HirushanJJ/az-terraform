@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/lumerastack/c32df7ed-870f-45f4-bf74-eeaaad1df85d/3bb2a8f7-91c8-4ade-a9b4-e3fdb8766d8e/_apis/work/boardbadge/71f3fcd3-3c4f-4c5e-8a83-17f41dade896)](https://dev.azure.com/lumerastack/c32df7ed-870f-45f4-bf74-eeaaad1df85d/_boards/board/t/3bb2a8f7-91c8-4ade-a9b4-e3fdb8766d8e/Microsoft.RequirementCategory)
